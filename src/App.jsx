@@ -12,6 +12,7 @@ function App() {
     <Route path="/signup" Component={Signup}/>
     <Route path="/login" Component={Login}/>
     <Route path="/profile" Component={Profile}/>
+
     </Routes>
     </BrowserRouter>
   )
